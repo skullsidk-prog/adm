@@ -217,4 +217,3 @@ end)
 print("[featherHub] Adopt Me Loaded..")
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/skullsidk-prog/adm/refs/heads/main/spawner.lua", true))()
